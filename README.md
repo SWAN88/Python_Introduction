@@ -1,3 +1,3 @@
 # Python_Introduction
-This is the introduction for python programming
-The first step to integrate Dokcer/Git/Python in the lab/ establish data science platform in the lab.
+This is the introduction for python programming: basic syntax, numpy, matplotlib, pandas, etc.
+The first step to integrate Git/Python in the lab/ establish data science platform in the lab.
